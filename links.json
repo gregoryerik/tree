@@ -1,0 +1,7 @@
+{
+	"only-dirs": {
+		"name": "Only Directories.",
+		"details": "Filter out files to only show directories",
+		"link": "onlyDirs"
+	}
+}
